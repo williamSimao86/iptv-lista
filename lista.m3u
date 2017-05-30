@@ -176,39 +176,6 @@ http://149.56.16.58:25461/live/cineiptv1247/1247/1826.ts?LISTABYPEDROJUNIORTUTOR
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Fox Sports HD
 http://149.56.16.58:25461/live/cineiptv1247/1247/1816.ts?LISTABYPEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" group-title="Teste", History 
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/HistoryHD2500.m3u8
-#EXTINF:1 tvg-id="" group-title="Teste", Discovery
-http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/Discovery2500.m3u8
-
-################################################################################# Câmeras Ao Vivo
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Estudio 93.7 FM Porteirinha - MG
-http://video.welltecnologia.com.br:1935/937porteirinha/937porteirinha/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Estudio 102 FM Itajaí - SC
-http://streaming2.aquisolucoes.com.br:1935/radio102video/aovivo/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Estudio 90.5 FM São Paulo - SP
-http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Estudio 91.7 FM Cascavel - PR
-http://stream.catve.com.br:1935/radiocamera/livestream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Estudio 91.9 FM Foz do Iguaçu - PR
-http://wowza.catve.com.br:1935/cameraradiofoz/livestream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Novo Templo da Igreja da Graça - SP
-http://flash1.crossdigital.com.br:1935/camongrace/camongrace.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Santuário de Aparecida - Altar Central
-http://caikrondatacenter.com.br:1935/santuario_aparecida/canal5.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Guarujá - Praia da Enseada
-https://d1h84if288zv9w.cloudfront.net/aovivo/0be3_151.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras",Ponte da Amizade - Foz do Iguaçu
-http://wowza.catve.com.br:1935/camera4/camera4.stream/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
 
 ################################################################################# TV Aberta
 
