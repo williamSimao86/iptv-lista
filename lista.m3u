@@ -1,207 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sportv.png" group-title="ESPORTES", SPORTV HD
-https://sendvid.com/m9345qsl.mp4
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/premiere.png" group-title="ESPORTES", PREMIERE HD
-https://sendvid.com/m9345qsl.mp4
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/espnbrasil.png" group-title="ESPORTES", ESPN BRASIL HD
-https://sendvid.com/m9345qsl.mp4
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/combate.png" group-title="ESPORTES", COMBATE HD
-https://sendvid.com/m9345qsl.mp4
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX SPORTS SD
-http://95.211.149.215:8081/look/foxsport/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX SPORTS HD
-http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/foxsports.png" group-title="ESPORTES", FOX SPORTS 2 HD
-http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
-
-
-
-################################################################################# Canais Temporários
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Globo HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1811.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Record HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1754.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Rede TV HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2149.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",SBT HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1746.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Animal Planet HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1863.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Band HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1858.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Multishow HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2123.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Bis HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2120.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",GNT HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2118.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Space HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2115.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",TBS HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2121.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",TNT Séries HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2116.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",TNT HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1715.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Universal Channel HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2112.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",AXN HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2165.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Sony HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2164.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Megapix HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2111.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Fox HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2160.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",FX HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2157.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Paramount HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2117.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",HBO HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1802.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",HBO 2 HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1804.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",HBO Family HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2155.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",HBO Plus HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2154.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",HBO Signature HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2153.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Telecine Action HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1730.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Telecine Fun HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1729.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Telecine Pipoca HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1728.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Telecine Touch HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2148.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Telecine Premium HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1727.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",History Channel HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1797.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",H2 HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2156.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Nat Geo Wild HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2151.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",National Geography HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1781.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Discovery Channel HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1840.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Discovery Home & Health HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1837.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Discovery Turbo HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1833.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",ID - Investigação Discovery HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2152.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Discovery World HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2163.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Fox Life HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2159.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Viva HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2145.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Warner Channel HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2146.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",ESPN HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2162.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",ESPN Brasil HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1823.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Band Sports HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2119.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Off HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/2150.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Combate HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1844.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Premier Clube HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1771.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Premiere 2 HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1769.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Premiere 3 HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1767.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Premiere 4 HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1765.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Premiere 5 HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1763.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",SporTV HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1739.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",SporTV 3 HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1740.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",SporTV 2 HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1741.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Ei Maxx HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1825.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Ei Maxx 2 HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1826.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UdfDMYQ.png" group-title="Temporários",Fox Sports HD
-http://149.56.16.58:25461/live/cineiptv1247/1247/1816.ts?LISTABYPEDROJUNIORTUTORIAIS
-
-
 ################################################################################# TV Aberta
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s29.postimg.org/3oe7k3gif/bg_rodape_logo_tv_ufg.png" group-title="TV Aberta",UFG TV
@@ -258,29 +57,11 @@ rtmp://200.198.37.134/live/ playpath=livestream swfUrl=http://releases.flowplaye
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/sQwm6Cl.png" group-title="TV Aberta",Rede Familia HD
 http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/xGYSOgE.png" group-title="TV Aberta",Agro Brasil
-http://154.16.127.17:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/c6rieq3ch/Novo_Canal.png" group-title="TV Aberta",Novo Canal
-http://live.sba1.com:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/bl4sk2qip/Agro_Canal.png" group-title="TV Aberta",Agro Canal
-http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/4szyd9mel/Canal_Conex_o.jpg" group-title="TV Aberta",Conexão BR
-http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s13.postimg.org/4bg0gmlaf/Canal_do_Boi.png" group-title="TV Aberta",Canal do Boi
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV Aberta",Canal Rural
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/jtiMetX.png" group-title="TV Aberta",Canal Rural X
 http://77149o.ha.azioncdn.net/hlslow/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/6jizer3xp/Amazon_Sat.png" group-title="TV Aberta",Amazon Sat
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="TV Gazeta [Brazil]" tvg-logo="http://s20.postimg.org/jy9ug0er1/TV_Gazeta.png" group-title="TV Aberta",TV Gazeta RN
 http://172.93.110.130:1935/televisaorn/televisaorn/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -297,74 +78,24 @@ http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e
 #EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/mcsj8yg8d/TV_Guar.png" group-title="TV Aberta",TV Guará
 http://v1.fabricahost.com.br/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo SP
-http://95.141.32.136:8081/look/sptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Globo - Rio de Janeiro [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo RJ
-http://5.79.68.138:8081/look/globo/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TV Globo [Brazil]" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",Globo Nordeste
-http://tv.ec.cx:1935/redecanais-stream-bobo/myStream/chunklist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT SP
-http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT MA
-http://hls.live.metacdn.com/hls-live/2050C7/beqgwjkrs/tvdifusora_/tvdifusora_,596,.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT RS
-http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT PI
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT PB HD
 http://tv.paraibahost.com.br:1935/tvtambau/tvtambau/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT MT
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT Recife
-http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-mobile.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT Caruaru
-http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s6.postimg.org/ttsxgsc1t/band.png" group-title="TV Aberta",Band SP
 http://5.79.68.138:8081/look/band/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s6.postimg.org/ttsxgsc1t/band.png" group-title="TV Aberta",Band PA
-http://video01.kshost.com.br:1935/rba24509/rba24509/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s6.postimg.org/ttsxgsc1t/band.png" group-title="TV Aberta",Band CE
-rtmp://187.18.187.5/livepkgr/ playpath=nordestv1 swfUrl=http://www.cxtv.com.br/assets/plugins/jwplayer7/jwplayer.flash.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/nordestv-band-ce
-
-#EXTINF:-1 tvg-id="Rede Brasil [Brazil]" tvg-logo="http://s28.postimg.org/hct2fdafh/REDE_BRASIL.png" group-title="TV Aberta",Rede Brasil SP
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Rede Brasil [Brazil]" tvg-logo="http://s28.postimg.org/hct2fdafh/REDE_BRASIL.png" group-title="TV Aberta",Rede Brasil SC
 http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="Rede Brasil [Brazil]" tvg-logo="http://s28.postimg.org/hct2fdafh/REDE_BRASIL.png" group-title="TV Aberta",Rede Brasil PA
-http://104.156.60.74:1935/canal50/canal50/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
 
 #EXTINF:-1 tvg-id="TV Brasil [Brazil]" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="TV Aberta",TV Brasil
 http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura SP HD
 http://5.79.68.138:8081/look/tvcultura/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PA
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PR HD
-http://wowza.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura PB HD
-http://177.73.84.49/hls/57290d5d9a175/57290d5d9a175.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura Bahia
-http://wz-brasil1.comets.com.br/tvbaiana/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Canal Futura [Brazil]" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura RJ
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -512,6 +243,24 @@ http://178.192.242.14:9000/play/a08b?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.postimg.org/i2krv5hkf/logo_sport_tv_8.png" group-title="Esportes",Sport TV 5 HD
 http://178.192.242.14:9000/play/a082?PEDROJUNIORTUTORIAIS
 
+
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="Esportes",SporTV
+http://5.79.68.138:8081/look/sportv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="Esportes",SporTV 2
+
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="Esportes",SporTV 3
+
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="Esportes",Fox Sports
+http://95.211.149.215:8081/look/foxsport/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="Esportes",Fox Sports HD
+http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png" group-title="Esportes",Fox Sports 2 HD
+http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://s27.postimg.org/8q1kgsdxf/200px_Eurosport_Logo_svg.png" group-title="Esportes",Eurosport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -545,21 +294,7 @@ http://evtg.mm.uol.com.br:1935/geobband/operadoras/playlist.m3u8?PEDROJUNIORTUTO
 #EXTINF:-1 tvg-id="Combate [Brazil]" tvg-logo="http://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate
 http://95.211.149.215:8081/look/combate/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-logo="http://s20.postimg.org/zcwx1096x/Spor_TV.png" group-title="Esportes",SporTV
-http://5.79.68.138:8081/look/sportv/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png" group-title="Esportes",SporTV 2
-
-#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-logo="http://s20.postimg.org/6d2il0qkp/Spor_TV3.png" group-title="Esportes",SporTV 3
-
-#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="Esportes",Fox Sports
-http://95.211.149.215:8081/look/foxsport/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-logo="http://s20.postimg.org/6t0raqvf1/Fox_Sport.png" group-title="Esportes",Fox Sports HD
-http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-logo="http://s20.postimg.org/tizw3qeml/Fox_Sports2.png" group-title="Esportes",Fox Sports 2 HD
-http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/7j60cwlfx/allspots.png" group-title="Esportes",All Sports BR
 http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -695,8 +430,6 @@ http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist.m3u8?PEDROJU
 
 ################################################################################# Notícias
 
-#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News
-http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Record News [Brazil]" tvg-logo="http://i.imgur.com/ac5p192.png" group-title="Notícias",Record News HD
 http://stmv4.srvstm.com:1935/recordnewses/recordnewses/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -711,8 +444,6 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/551h9ah1p/GV_News.png" group-title="Notícias",GV News
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s24.postimg.org/7x7t1ftat/TV_Ponta_Negra_News.png" group-title="Notícias",TV Ponta Negra News
-http://184.172.23.109:1935/live/tvmix02/tvmix02/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s27.postimg.org/lii6qu8mb/TV_Clima.png" group-title="Notícias",TV Clima
 http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -720,20 +451,7 @@ http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews
 http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews Portugal
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews Germany
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews Español
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews France
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/wqln7v825/image.png" group-title="Notícias",Euronews Itália
-http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_it.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/w4ih3sa1h/image.png" group-title="Notícias",ABC News
 http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8?PEDROJUNIORTUTORIAIS
@@ -762,11 +480,6 @@ http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/playlist.m3u8?PEDROJUNIOR
 #EXTINF:-1 tvg-id="" tvg-logo="https://s30.postimg.org/qe6x5huwh/logo.png" group-title="Notícias",TVI 24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/spdx9h40l/image.jpg" group-title="Notícias",Porto Canal
-http://213.13.26.11:1935/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/b2mzsakm5/photo.jpg" group-title="Notícias",Geeak.tv
-http://streaming50.sitehosting.com.br:1935/angra/angra/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s29.postimg.org/6meui6yaf/logo_tv_mana_1.png" group-title="Notícias",TV Maná
 http://195.22.19.179:1935/manasat/manasat2/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -891,14 +604,6 @@ https://www.djing.com/tv/animation.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="" tvg-logo="https://s23.postimg.org/7bdxjqhsb/djing.png" group-title="Variedade e Músicas",DJing Classics HD
 https://www.djing.com/tv/classics.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s2.postimg.org/j2sdmpkgp/Gospel_Music_Television.jpg" group-title="Variedade e Músicas",Gospel Music Television
-http://stmv2.srvstm.com:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s29.postimg.org/6vtad0auv/Gospel_Movie_Television.jpg" group-title="Variedade e Músicas",Gospel Movie Television
-http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/c8pzk1iul/RBX_TV.png" group-title="Variedade e Músicas",RBX TV
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/df03mvbyl/sb4.png" group-title="Variedade e Músicas",SB4
 http://media.az-mediaserver.com:1935/7120/7120/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -938,9 +643,6 @@ http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s28.postimg.org/sry7yabe5/virgin_tv_0_11.png" group-title="Variedade e Músicas",Virgin TV
 http://fms.105.net:1935/live/virgin2%20/index.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s27.postimg.org/eo7l9k1g3/clipes.png" group-title="Variedade e Músicas",TV Clipes Gospel
-http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="Viva [Brazil]" tvg-logo="http://s20.postimg.org/sgshbu019/viva.png" group-title="Variedade e Músicas",Viva
 
