@@ -1,16 +1,145 @@
 #EXTM3U
 
-#EXTINF:-1,Discovery Channel HD (EN/RU)
-http://178.166.197.79:1234/udp/225.54.41.18:5000
-#EXTINF:-1,Discovery Science HD (EN/RU)
-http://178.166.197.79:1234/udp/225.54.41.35:5000
-#EXTINF:-1,Animal Planet HD (EN/RU)
-http://178.166.197.79:1234/udp/225.54.43.19:5000
-#EXTINF:-1,National Geographic HD
-http://178.166.197.79:1234/udp/225.54.41.6:5000
-#EXTINF:-1,Nat Geo Wild HD
-http://178.166.197.79:1234/udp/225.54.41.7:5000
-
+#EXTINF:-1,BR :  Gloob
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2423.ts
+#EXTINF:-1,BR :  Globo News
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2420.ts
+#EXTINF:-1,BR :  Globo Premium
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2421.ts
+#EXTINF:-1,BR :  Globo Sao Paulo
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2422.ts
+#EXTINF:-1,BR :  GNT
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2424.ts
+#EXTINF:-1,BR :  Canal Brasil
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2412.ts
+#EXTINF:-1,BR :  TV Brasil
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2458.ts
+#EXTINF:-1,BR :  Viva
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2459.ts
+#EXTINF:-1,BR :  Band
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2409.ts
+#EXTINF:-1,BR :  PFC
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2436.ts
+#EXTINF:-1,BR : SporTV
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2475.ts
+#EXTINF:-1,BR :  Sport TV
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2447.ts
+#EXTINF:-1,BR :  Sport TV2
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2448.ts
+#EXTINF:-1,BR :  Sport TV3
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2449.ts
+#EXTINF:-1,BR :  Fox Sports
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2418.ts
+#EXTINF:-1,BR :  Fox Sports 2
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2419.ts
+#EXTINF:-1,BR :  Combate
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2414.ts
+#EXTINF:-1,BR :  Band News
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2410.ts
+#EXTINF:-1,BR :  Band Sports
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2411.ts
+#EXTINF:-1,BR :  ESPN
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2415.ts
+#EXTINF:-1,BR :  ESPN Brasil
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2416.ts
+#EXTINF:-1,BR :  ESPN Plus
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2417.ts
+#EXTINF:-1,BR :  H2
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2425.ts
+#EXTINF:-1,BR :  HBO
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2426.ts
+#EXTINF:-1,BR :  HBO 2
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2427.ts
+#EXTINF:-1,BR :  HBO Family
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2428.ts
+#EXTINF:-1,BR :  HBO Plus
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2429.ts
+#EXTINF:-1,BR :  HBO Signature
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2430.ts
+#EXTINF:-1,BR :  Max
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2431.ts
+#EXTINF:-1,BR :  Max Up
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2433.ts
+#EXTINF:-1,BR :  Max Prime
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2432.ts
+#EXTINF:-1,BR :  Multishow
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2434.ts
+#EXTINF:-1,BR :  Paramount
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2435.ts
+#EXTINF:-1,BR :  Premiere 2
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2437.ts
+#EXTINF:-1,BR :  Premiere 6
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2441.ts
+#EXTINF:-1,BR :  Premiere 7
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2442.ts
+#EXTINF:-1,BR :  Premiere 8
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2443.ts
+#EXTINF:-1,BR :  Premiere 9
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2444.ts
+#EXTINF:-1,BR :  Premiere Clubes
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2445.ts
+#EXTINF:-1,BR :  Prime Box Brasil
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2446.ts
+#EXTINF:-1,BR :  Cinemax
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2413.ts
+#EXTINF:-1,BR :  TC Action
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2450.ts
+#EXTINF:-1,BR :  TC Cult
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2451.ts
+#EXTINF:-1,BR :  TC Fun
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2452.ts
+#EXTINF:-1,BR :  TC Pipoca
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2453.ts
+#EXTINF:-1,BR :  TC Premium
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2454.ts
+#EXTINF:-1,BR :  TC Touch
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2455.ts
+#EXTINF:-1,BR :  TNT
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2456.ts
+#EXTINF:-1,BR :  TNT Series
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2457.ts
+#EXTINF:-1,BR : E!
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2469.ts
+#EXTINF:-1,BR : Eimax 1
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2470.ts
+#EXTINF:-1,BR : TCM
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2477.ts
+#EXTINF:-1,BR : A&E
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2460.ts
+#EXTINF:-1,BR : AXN
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2461.ts
+#EXTINF:-1,BR : FOX
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2471.ts
+#EXTINF:-1,BR : Fox Life
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2472.ts
+#EXTINF:-1,BR :  Discovery Civilization
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2439.ts
+#EXTINF:-1,BR :  Discovery Science
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2438.ts
+#EXTINF:-1,BR : Discovery Channel
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2464.ts
+#EXTINF:-1,BR : Discovery Turbo
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2466.ts
+#EXTINF:-1,BR :  Investigacao Discovery
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2440.ts
+#EXTINF:-1,BR : National Geographic
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2473.ts
+#EXTINF:-1,BR : The History Channel
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2478.ts
+#EXTINF:-1,BR : Boomerang
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2462.ts
+#EXTINF:-1,BR : Canal Sony
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2463.ts
+#EXTINF:-1,BR : Studio Universal
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2476.ts
+#EXTINF:-1,BR : Discovery Kids
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2465.ts
+#EXTINF:-1,BR : Disney
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2467.ts
+#EXTINF:-1,BR : Disney Jr
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2468.ts
+#EXTINF:-1,BR : Nickelodeon
+http://iptvportugal-hd.ddns.net:8000/live/Ruimiguelgoncalves/ucDDZBRfTR/2474.ts
 
 ################################################################################# TV Aberta
 
@@ -23,21 +152,14 @@ http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8?PEDROJUN
 #EXTINF:-1 tvg-id="" tvg-logo="http://s24.postimg.org/l8ns5rzud/RPTV.jpg" group-title="TV Aberta",RPTV
 http://mediaserver1.estadovirtual.net:1935/c2187ev2207/aovivo/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/8yz2d01r5/Logo_OK.png" group-title="TV Aberta",Rede Petrópolis
-http://wz6.dnip.com.br:1935/california/california.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://s30.postimg.org/eymtgnmjl/logo_fundotransparente2.png" group-title="TV Aberta",Rede Atividade
 http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s24.postimg.org/3mh5iwvph/TVT.png" group-title="TV Aberta",TVT HD
 http://slrp.sambavideos.sambatech.com/liveevent/tvtabr_56fc38e9793ca9941f5203fab6e01263/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s22.postimg.org/asqww16cx/TV_RBC.png" group-title="TV Aberta",TV RBC
 http://flash1.crossdigital.com.br:1935/ponto10/latina/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/jl02qv2y5/tvfaap.png" group-title="TV Aberta",TV FAAP
-http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/6m5zb5e7p/TV_Medicina_Sa_de.png" group-title="TV Aberta",TV Medicina & Saúde
 http://rtmp.cdn.upx.net.br/7dcb/myStream.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -48,14 +170,8 @@ http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45e
 #EXTINF:-1 tvg-id="" tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="TV Aberta",TV Diário do Sertão
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/vs2c48q45/TV_Cidade_Oeste.png" group-title="TV Aberta",TV Cidade Oeste
-http://radios.primedata.com.br:1935/tvcidadeoeste/oeste2/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://s27.postimg.org/78udb54jn/TV_Mantiqueira.png" group-title="TV Aberta",TV Mantiqueira
 http://streaming63.sitehosting.com.br:1935/rlcom/_definst_/rlcom/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://s28.postimg.org/nld6w3lct/RCTV.png" group-title="TV Aberta",RCTV
-http://flash1.crossdigital.com.br/491/491/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s23.postimg.org/3krs70hgr/Rede_Minas.png" group-title="TV Aberta",Rede Minas
 rtmp://200.198.37.134/live/ playpath=livestream swfUrl=http://releases.flowplayer.org/7.0.3/commercial/flowplayer.swf live=1 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/rede-minas
@@ -87,13 +203,6 @@ http://179.107.83.10:1935/live/tvbrusque/livestream.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="TV Brasil [Brazil]" tvg-logo="http://i.imgur.com/0uUPOMx.png" group-title="TV Aberta",TV Brasil
 http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-logo="http://i.imgur.com/kai6F2R.png" group-title="TV Aberta",TV Cultura SP HD
-http://5.79.68.138:8081/look/tvcultura/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Canal Futura [Brazil]" tvg-logo="http://i.imgur.com/J0vLlTS.png" group-title="TV Aberta",TV Futura RJ
-http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-
 #EXTINF:-1 tvg-id="Record [Brazil]" tvg-logo="http://s6.postimg.org/ik4szkwe9/record.png" group-title="TV Aberta",Record SP
 http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/master.m3u8?PEDROJUNIORTUTORIAIS
 
@@ -103,10 +212,8 @@ http://5.79.68.138:8081/look/record/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="TV Aberta",Rede TV PR
 http://video01.viaflux.com:1935/live/mp4:tvsudoeste_source/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/65vfkdnzh/TVE.png" group-title="TV Aberta",TVE Bahia HD
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?PEDROJUNIORTUTORIAIS
-
 
 #EXTINF:-1 tvg-id="TV Escola [Brazil]" tvg-logo="http://i.imgur.com/Yj9UKv2.png" group-title="TV Aberta",TV Escola HD
 http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/playlist.m3u8?PEDROJUNIORTUTORIAIS
@@ -116,9 +223,6 @@ http://evtg.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="NBR [Brazil]" tvg-logo="http://s20.postimg.org/4tisflwvh/NBR.png" group-title="TV Aberta",NBR
 http://ebcremuxlive-live.hls.adaptive.level3.net:80/hls-live/ebcremuxlive-ebctvnbr/_definst_/live/stream1.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TV Justiça [Brazil]" tvg-logo="http://s8.postimg.org/ciwwegpr9/tvjustica.png" group-title="TV Aberta",TV Justiça
-http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_480p/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1 tvg-id="TV Câmara [Brazil]" tvg-logo="http://s20.postimg.org/z0m2qozal/TV_Camara.png" group-title="TV Aberta",TV Câmara
 http://stream2.camara.leg.br:8134/tv1/manifest.m3u8?PEDROJUNIORTUTORIAIS
