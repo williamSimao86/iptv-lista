@@ -1,37 +1,41 @@
 #EXTM3U
 
-GLOBO 
-http://217.23.2.169:8081/edge/globo/playlist.m3u8 
- 
-GLOBO SP
-http://m3u.me/CQ
- 
-GLOBO SP (OPIÇÃO 02)
-http://91.205.174.38:8081/live/sptv/chunks.m3u8 
- 
-GLOBO RJ
-http://91.205.174.38:8081/live/globo/chunks.m3u8
- 
-Globo RJ (OPIÇÃO 02)
-http://m3u.me/CP
- 
-Globo ND
-http://tv.redecanais.com:1935/redecanaisglobo/myStream/chunklist.m3u8 
- 
-Globo ND
-http://tv.redecanais.com:1935/redecanaisglobo/myStream/chunklist.m3u8
- 
-Globo ES
-http://104.236.28.30:8081/live/netiptv584/584/152.ts
-
-#EXTINF:-1 tvg-id="", SPORTV 1 BR
-http://79.124.59.218:1935/liveedge/ch05-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="",SPORTV 2 BR
-http://79.124.59.218:1935/liveedge/ch06-1/playlist.m3u8?Coelho
-
-#EXTINF:-1 tvg-id="",SPORTV 3 BR
-http://79.124.59.218:1935/liveedge/ch07-1/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo HQ
+http://163.172.60.35/loadbalance/slv5/chunks.m3u8
+#EXTINF:-1,SporTV HD
+http://163.172.60.35/loadbalance/slv0/chunks.m3u8
+#EXTINF:-1,Globo HD
+http://163.172.60.35/loadbalance/slv9_bkp/chunks.m3u8
+#EXTINF:-1,Globo SD
+http://163.172.60.35/loadbalance/slv9/chunks.m3u8
+#EXTINF:-1,Globo SD2
+http://163.172.60.35/loadbalance/bfr6/chunks.m3u8
+#EXTINF:-1,PFC 1
+http://163.172.60.35/loadbalance/bfr1/chunks.m3u8
+#EXTINF:-1,PFC 2
+http://163.172.60.35/loadbalance/bfr2/chunks.m3u8
+#EXTINF:-1,PFC 3
+http://163.172.60.35/loadbalance/bfr3/chunks.m3u8
+#EXTINF:-1,PFC 4
+http://163.172.60.35/loadbalance/bfr4/chunks.m3u8
+#EXTINF:-1,PFC 5
+http://163.172.60.35/loadbalance/bfr5/chunks.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://163.172.60.35/loadbalance/canal-cartoon-network-hd/playlist.m3u8
+#EXTINF:-1,TNT
+http://163.172.60.49/loadbalance/canal-tnt-hd/playlist.m3u8
+#EXTINF:-1,Telecine Premium
+http://163.172.60.49/loadbalance/canal-telecine-premium-hd/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://163.172.60.49/loadbalance/canal-telecine-pipoca-hd/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://163.172.60.49/loadbalance/canal-cinemax-hd/playlist.m3u8
+#EXTINF:-1,HBO Family
+http://163.172.60.49/loadbalance/canal-hbo-family-hd/playlist.m3u8
+#EXTINF:-1,Nat Geo WILD
+http://163.172.60.49/loadbalance/canal-natgeo-wild-hd/playlist.m3u8
+#EXTINF:-1,HBO Signature
+http://163.172.60.49/loadbalance/canal-hbo-signature-hd/playlist.m3u8
 
 ################################################################################# TV Aberta
 
